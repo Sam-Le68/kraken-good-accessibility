@@ -25,7 +25,7 @@ img {
 
 .first-line {
   background-image: url("../images/anchors.svg");
-  color: black;
+  color: white;
   font-size: 1.125rem;
   font-style: normal;
   font-weight: normal;
@@ -64,19 +64,19 @@ article header {
   background-color: #259f95;
   background-image: none;
   border-radius: 0 0 6px 6px;
-  color: black;
+  color: white;
 }
 
 h1, h2 {
   margin: 0;
-  color: black;
+  color: white;
   font-weight: normal;
   font-size: 1.125rem;
 }
 
 h3 {
   margin: 0;
-  color: black;
+  color: white;
   font-weight: normal;
   font-size: 1.75rem;
 }
